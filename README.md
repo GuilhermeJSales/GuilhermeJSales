@@ -1,9 +1,13 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
+- 🏃 Correndo atrás da primeira oportunidade como dev.
+- 🕮 Atualmente estudando React JS
+- 📧 guijsalesdg@outlook.com
+
 <div align="center">
   <a href="https://github.com/GuilhermeJSales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJSales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJSales&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJSales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJSales&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
