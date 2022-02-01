@@ -1,0 +1,33 @@
+## Olá!! Seja bem-vindo ao meu perfil do GitHub. 🔥
+
+- 🏃 Correndo atrás da primeira oportunidade como dev.
+- 🕮 Atualmente estudando React JS
+- 📧 guijsalesdg@outlook.com
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermejsales&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermejsales&layout=compact&theme=dark)](https://github.com/guilhermejsales/github-readme-stats)
+
+
+<div style="display: inline-block"><br>
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+
+
+
+
+<div><br>
+<a href="https://www.linkedin.com/in/guilherme-jesus-sales-792157209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/guilherme.j.sales/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/guijsales2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:guijsalesdg@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
+
+
+
+
