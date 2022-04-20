@@ -1,6 +1,5 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
-- 🏃 Correndo atrás da primeira oportunidade como dev.
 - 🕮 Atualmente estudando React JS
 - 📧 guijsalesdg@outlook.com
 
