@@ -1,6 +1,6 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
-- 🕮 Atualmente estudando React JS
+- 🕮 Atualmente estudando Typescript!
 - 📧 guijsalesdg@outlook.com
 
 <div align="center">
