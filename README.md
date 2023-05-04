@@ -1,7 +1,10 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
-- 🕮 Atualmente cursando o Ignite da RocketSeat!
+- 🕮 Atualmente estudando NodeJS!
+- 💻 Desenvolvedor front end na Integração Digital - desde Março de 2023.
+- 👩‍💻 Certificados via: RocketSeat & Origamid.
 - 📧 guijsalesdev@outlook.com
+- 📞 +55 (11) 96168-3295
 
 <div align="center">
   <a href="https://github.com/GuilhermeJSales">
@@ -12,9 +15,15 @@
 
 <div style="display: inline-block"><br>
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 
