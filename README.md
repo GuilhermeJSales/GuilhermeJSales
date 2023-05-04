@@ -1,6 +1,6 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
-- 🕮 Atualmente estudando Typescript!
+- 🕮 Atualmente cursando o Ignite da RocketSeat!
 - 📧 guijsalesdev@outlook.com
 
 <div align="center">
