@@ -1,7 +1,6 @@
 ## Olá!! Seja bem-vindo ao meu perfil do GitHub.
 
-- 🕮 Atualmente estudando NodeJS!
-- 💻 Desenvolvedor front end na Integração Digital - desde Março de 2023.
+- 🕮 Atualmente estudando NextJS na plataforma Origamid!
 - 👩‍💻 Certificados via: RocketSeat & Origamid.
 - 📧 guijsalesdev@outlook.com
 - 📞 +55 (11) 96168-3295
