@@ -1,12 +1,14 @@
-## Olá!! Seja bem-vindo ao meu perfil do GitHub.
+## Hello! Welcome to my GitHub profile.
 
-- 🕮 Desenvolvedor Front-End
+- 🕮  Full Stack Developer
+- 💻 NextJS | ReactJS | NodeJS | TypeScript | JavaScript | PHP | Redux | CSS3 | HTML5
+- 👩‍💻 <a href="https://guijsalesdev.vercel.app/" target="_blank">My Portfolio V1</a>
 - 📧 guijsalesdev@outlook.com
 - 📞 +55 (11) 96168-3295
 
 <div>
   <a href="https://github.com/GuilhermeJSales">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJSales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJSales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJSales&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
