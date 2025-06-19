@@ -1,9 +1,9 @@
 ## Hello! Welcome to my GitHub profile.
 
 - 🕮  Full Stack Developer
-- 💻 NextJS | ReactJS | NodeJS | TypeScript | JavaScript | PHP | Redux | CSS3 | HTML5
+- 💻 NextJS | ReactJS | NodeJS | TypeScript | JavaScript | PHP | Redux | CSS3 | HTML5 | Tailwind CSS 
 - 👩‍💻 <a href="https://guijsalesdev.vercel.app/" target="_blank">My Portfolio V1</a>
-- 📧 guijsalesdev@outlook.com
+- 📧 guilherme.jesus.sales@outlook.com
 - 📞 +55 (11) 96168-3295
 
 <div>
